@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://green-wall.leoku.dev/share/haris-caddayn?size=m&theme=Midnight&showSafariHeader=false&showAttribution=false
+## 📊 My Contribution Graph (Private Org)
+
+<p align="center">
+  <img src="https://green-wall.leoku.dev/share/haris-caddayn?size=m&theme=Midnight&showSafariHeader=false&showAttribution=false" alt="Contribution graph">
+</p>
+
+This chart shows my contributions across all projects (including private organization repositories).
