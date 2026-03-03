@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📊 My Contribution Graph (Private Org)
+## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://green-wall.leoku.dev/share/haris-caddayn?size=m&theme=Midnight&showSafariHeader=false&showAttribution=false" alt="Contribution graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haris-peter&theme=github-dark" />
 </p>
-
-This chart shows my contributions across all projects (including private organization repositories).
