@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haris-caddayn&bg_color=011627&color=c792ea&line=c792ea&point=ffeb95&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haris-caddayn&bg_color=011627&color=c792ea&line=c792ea&point=ffeb95&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
 </p>
