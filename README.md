@@ -1,12 +1,13 @@
-<div align="center">
+ <div align="center">
     <img width=300 src="./assets/ghost.gif"/>    
     <br/>
     <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Welcome%2C+restless+soul!+I'm+Haris+JP" alt="Typing SVG" /></a>
 
 </div>
-
-myself haris jsoin peter
+<div align="center">
+    <a href="https://t.me/Norazova"><img src="https://img.shields.io/badge/-Telegram-f5e0dc?style=for-the-badge&logo=telegram&logoColor=27A0D9" alt="Telegram"/></a>
+</div>
 
 <!--
 **haris-peter/haris-peter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
