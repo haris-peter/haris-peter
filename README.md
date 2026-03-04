@@ -2,7 +2,7 @@
     <img width=300 src="./assets/ghost.gif"/>    
     <br/>
     <br/>
-    <img width=300 src="./assets/welcome_text.gif"/>    
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Welcome%2C+restless+soul!+I'm+Haris+JP" alt="Typing SVG" /></a>
 </div>
 
 myself haris jsoin peter
