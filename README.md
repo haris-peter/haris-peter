@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Haris Josin Peter — Building My Blocks" width="100%"/>
+  <img width=300 src="./assets/ghost.gif"/>    
+  <br/>
+  <br/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Welcome%2C+restless+soul!+I'm+Haris+JP" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -10,82 +13,53 @@
 
 <br/>
 
-> Site Reliability and cloud-focused backend engineer with hands-on experience managing production-grade, containerized microservices in a product-based ERP environment. Skilled in incident handling, performance optimization, observability engineering, CI/CD automation, and infrastructure monitoring.
+### 👋 Hi there, I'm Haris Josin Peter!
+**Site Reliability and Cloud-focused Backend Engineer** ☁️
+
+I'm a passionate backend developer specializing in containerized microservices, observability, and system optimization. Welcome to my GitHub!
+
+- � I’m currently working as a **Django Backend Developer** @ Caddayn
+- 🌱 I’m currently exploring **RAG (Retrieval-Augmented Generation)** and **AI Agents**
+- 💬 Ask me about **Django, Docker, Kubernetes, PostgreSQL, and Observability (Prometheus/Grafana)**
+- 📫 How to reach me: [harisjosinpeter@gmail.com](mailto:harisjosinpeter@gmail.com)
 
 ---
 
-## 🛠️ Technical Skills
+### � Tech Stack & Tools
 
-| Category | Stack |
-|---|---|
-| **Languages** | Python · JavaScript · Dart · C++ · Bash |
-| **Cloud / DevOps** | Docker · Kubernetes (Minikube) · GitHub Actions · AWS (EC2, S3) · MinIO |
-| **Observability** | Prometheus · Grafana · Node Exporter · cAdvisor · Loki · Promtail |
-| **Databases** | PostgreSQL · MongoDB · ChromaDB |
-| **Frameworks** | Django · DRF · Flutter · Streamlit |
-| **Other** | Git · Linux · REST APIs · LangChain · Langflow · RAG |
+**Languages**
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
+**Backend & Cloud**
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 💼 Experience
-
-### Django Backend Developer — Caddayn *(Jan 2025 – Present)*
-
-- Led backend architecture and DevOps operations as the **sole backend engineer**, managing a containerized microservices ERP with **5 production services** (Admin, ERP Backend, PostgreSQL, MinIO, Biller).
-- Improved overall **system uptime by 10%** through proactive monitoring, alert configuration, and performance optimization.
-- **Reduced deployment time by 10%** by optimizing CI/CD workflows with GitHub Actions and Docker-based production releases.
-- **Decreased PostgreSQL backup failure rate by 80%** by implementing automated backup validation and S3-compatible (MinIO) recovery pipelines.
-- Designed and deployed a full **observability stack** (Prometheus, Grafana, Node Exporter, cAdvisor, Loki, Promtail) for real-time container and system-level monitoring.
-- Configured automated alerts for high CPU/memory usage, significantly reducing incident detection time.
-- **Optimized the ERP billing module** using Django bulk create — reduced response time from 10–13s to 3–5s (**60% improvement**).
-- Resolved a critical release failure caused by inefficient Elasticsearch indexing by removing the dependency entirely, stabilizing deployments.
-- Implemented cron-based health checks integrated with **Cloudflare Zero Trust tunnels** for secure remote access and automated downtime alerts.
-
-### Flutter Intern — Caddayn *(Aug 2023 – Jun 2024)*
-
-- Developed cross-platform mobile apps with Flutter, implementing state management, API integration, and UI animations.
+**Observability**
+![](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-## � Projects
+### 📊 GitHub Stats
 
-### 🏆 [LawLens AI](https://github.com/Joeljaison391/LawLens-AI) — *Winner, BeachHack Season 6 (2025)*
-Regulatory document review engine using **RAG, ChromaDB, and Mistral 7B**. Enables compliance verification of legal documents through natural language reasoning and similarity search.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>🧑‍💻 Personal Account (haris-peter)</b></td>
+      <td align="center"><b>🏢 Work Account (haris-caddayn)</b></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=haris-peter&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Haris Peter Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=haris-caddayn&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Haris Caddayn Stats" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=haris-peter&theme=radical&hide_border=true" alt="Haris Peter Streak" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=haris-caddayn&theme=radical&hide_border=true" alt="Haris Caddayn Streak" /></td>
+    </tr>
+  </table>
+</div>
 
-### 🔗 [Orion](https://github.com/parthavpovil/orion-web) — *Decentralized Academic Review System (2025)*
-Peer-review platform using **IPFS, MetaMask, and Ethereum smart contracts**, with AI-driven pre-review and plagiarism analysis via NLP.
+<br/>
 
-### 🧠 [SoulSync](https://github.com/JoelJaison394/SoulSync) — *AI Companion for Alzheimer's Patients (2025)*
-Personalized NLP-based chatbot combining reminiscence therapy principles with user-specific interaction modeling for memory recall and emotional engagement.
-
----
-
-## 🏅 Awards & Honors
-
-- 🥈 **2026** — 1st Runner-up, Global Game Jam
-- 🥇 **2025** — 1st Prize, BeachHack Season 6
-- 🎙️ **2024–25** — Outreach Lead, TinkerHub SCET
-- 🥇 **2024** — 1st Prize, Infinia Hackathon
-
----
-
-## � Certifications
-
-- **AI Agents 101: Building AI Agents with MCP and Open-Source Inference** — AMD (Feb 2026)
-- **Backend Development and APIs** — FreeCodeCamp (Dec 2024)
-- **Building an AI-Powered Game!** — DeepLearning.AI (Nov 2024)
-- **Google AI Essentials** — Coursera (Jun 2024)
-
----
-
-## 🎓 Education
-
-**B.Tech CSE** — Sahrdaya College of Engineering and Technology, Kodakara · CGPA: 7.94 *(2025)*
-
----
-
-## 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haris-caddayn&bg_color=011627&color=c792ea&line=c792ea&point=ffeb95&area=true&hide_border=true" />
-</p>
+<div align="center">
+  <b>🌟 Main Contribution Activity</b><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haris-caddayn&bg_color=011627&color=c792ea&line=c792ea&point=ffeb95&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
