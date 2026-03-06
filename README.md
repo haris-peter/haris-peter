@@ -14,6 +14,11 @@
 <br/>
 
 ### 👋 Hi there, I'm Haris Josin Peter!
+
+<div align="center">
+  <img src="./assets/banner.png" alt="Haris Josin Peter — Building My Blocks" width="100%"/>
+</div>
+
 **Site Reliability and Cloud-focused Backend Engineer** ☁️
 
 I'm a passionate backend developer specializing in containerized microservices, observability, and system optimization. Welcome to my GitHub!
