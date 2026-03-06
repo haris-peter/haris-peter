@@ -2,7 +2,7 @@
   <img width=300 src="./assets/ghost.gif"/>    
   <br/>
   <br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&random=true&width=435&lines=Welcome%2C+restless+soul!+I'm+Haris+JP" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=25&pause=1000&color=FFFFFF&center=true&repeat=false&vCenter=true&random=true&width=435&lines=Welcome%2C+restless+soul!+I'm+Haris+JP" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
